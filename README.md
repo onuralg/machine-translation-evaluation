@@ -2,7 +2,7 @@
 
 A presentation on machine translation metrics. 
 
-[[Slides](Natural Language Processing - Presentation.pdf)]
+[[Slides](https://github.com/onuralg/machine-translation-evaluation/blob/main/Natural%20Language%20Processing%20-%20Presentation.pdf)]
 
 - Word Error Rate
 - Bilingual Evaluation Understudy (BLEU) [[Link](https://www.aclweb.org/anthology/P02-1040.pdf)]
